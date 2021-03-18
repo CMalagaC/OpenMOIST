@@ -19,4 +19,4 @@ during the analysis. You will obtain a plot displaying the moisture variations a
 and an xlsx. output file in the same address of the xlsx. input file containing all the moisture 
 variations across the whole section. 
 
--- C. Melchor-Placencia, Christian Malaga-Chuquitaypea
+-- C. Melchor-Placencia, Christian Malaga-Chuquitaype
